@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/saminamurad/todos.git/static/css/main.84f0b639.css",
+    "main.js": "/saminamurad/todos.git/static/js/main.463976a6.js",
+    "static/js/787.28cb0dcd.chunk.js": "/saminamurad/todos.git/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/saminamurad/todos.git/index.html",
+    "main.84f0b639.css.map": "/saminamurad/todos.git/static/css/main.84f0b639.css.map",
+    "main.463976a6.js.map": "/saminamurad/todos.git/static/js/main.463976a6.js.map",
+    "787.28cb0dcd.chunk.js.map": "/saminamurad/todos.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84f0b639.css",
+    "static/js/main.463976a6.js"
+  ]
+}
